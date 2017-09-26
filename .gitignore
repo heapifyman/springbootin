@@ -13,3 +13,7 @@ buildNumber.properties
 *.iml
 .idea
 rebel.xml
+
+.project
+.classpath
+.settings/
